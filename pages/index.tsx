@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Welcome to Abyss's Portfolio</h1>
+        <h1>Welcome to Abyss&apos;s Portfolio</h1>
       </main>
     </div>
   );
